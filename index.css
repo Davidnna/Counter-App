@@ -46,3 +46,9 @@ button {
 #save-el {
     font-weight: bold;
 }
+
+@media (max-width: 340px) {
+    button {
+        width: 80%;
+    }
+}
